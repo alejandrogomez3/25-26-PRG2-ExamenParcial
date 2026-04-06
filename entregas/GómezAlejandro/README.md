@@ -1,1 +1,5 @@
-
+Primero creé la clase usuariobiblioteca usando exactamente la vista pública que se pedía, sin cambiarle nada. Esa parte define los métodos y el constructor que la clase tiene que ofrecer, así que la dejé tal cual estaba.
+Después, debajo de esa vista pública, hice la implementación real de la clase. Añadí las variables que necesitaba para guardar los datos del usuario, los préstamos y el historial. Luego programé cada método para que hiciera lo que le corresponde: sumar préstamos, restar devoluciones, evitar que el total baje de cero, y guardar todo en el historial para poder consultarlo después.
+Cuando terminé la clase, la dejé en su propio archivo, que es lo normal en Java.
+Luego creé otro archivo separado para el main. Ese archivo solo contiene la clase principal con el método main, sin ejemplos ni llamadas, porque así lo pediste. El main está vacío pero es necesario para que el programa pueda ejecutarse si se quiere.
+En resumen, he dejado la clase completa, funcional y con la vista pública intacta, y he separado el main en otro archivo, limpio y listo para usar cuando haga falta crear objetos.
